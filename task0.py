@@ -8,5 +8,8 @@ for i in range(100):
 	elif i%5==0:
 		print("Buzz")
 		continue
+	else:
+		print(i)
+		continue
 
 print(i)
